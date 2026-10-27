@@ -1,0 +1,13 @@
+Product_Name,Stock_On_Hand,Reorder_Level,Sold_30d,Stock_Ratio,Days_Of_Cover,Status
+Study Desk,18,5,1.0,3.6,540.0,OK
+Running Shoes,63,13,0.0,4.85,,OK
+Storage Box,97,20,0.0,4.85,,OK
+Office Chair,34,7,0.0,4.86,,OK
+Bluetooth Speaker,73,15,2.0,4.87,1095.0,OK
+Power Bank,88,18,0.0,4.89,,OK
+USB-C Cable,296,60,8.0,4.93,1110.0,OK
+Backpack,79,16,0.0,4.94,,OK
+Wireless Earbuds,119,24,17.0,4.96,210.0,OK
+Water Bottle,179,36,6.0,4.97,895.0,OK
+Notebook Pack,249,50,7.0,4.98,1067.1,OK
+Gel Pen Set,399,80,15.0,4.99,798.0,OK
